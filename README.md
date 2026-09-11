@@ -35,7 +35,7 @@ If you find any bugs related to icons, fonts, or animations, feel free to open a
 
 * **WhatsApp:** +52 997 183 9718
  
-* **Ecosystem:** You can use **NOOS Widgets** for the full Nothing OS experience, get NOOS [Here](https://tu-enlace.com)
+* **Ecosystem:** You can use **NOOS Widgets** for the full Nothing OS experience, get NOOS [Here](https://github.com/Jonexk/NOOS-Widgets)
 * 
 
 ---
