@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="assets/Banner/nlockicon.png" alt="N-Lock 1.0 Banner" width="100%" />
+</p>
+
+
 # N-Lock 1.0
 
 Nothing OS inspired Lockscreen for **KLCK Kustom Lock Screen Maker**.
