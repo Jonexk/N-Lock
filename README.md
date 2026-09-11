@@ -2,9 +2,8 @@
   <img src="assets/Banner/nlockicon.png" alt="N-Lock 1.0 Banner" width="100%" />
 </p>
 
-<p align="center">
-## N-Lock 1.0
-</p>
+<h1 align="center">N-LOCK 1.0</h1>
+
 Nothing OS inspired Lockscreen for **KLCK Kustom Lock Screen Maker**.
 
 ---
@@ -35,7 +34,8 @@ Nothing OS inspired Lockscreen for **KLCK Kustom Lock Screen Maker**.
 If you find any bugs related to icons, fonts, or animations, feel free to open an issue or reach out directly:
 
 * **WhatsApp:** +52 997 183 9718
-* **Ecosystem:** Pair this setup with **NOOS Widgets V5** for the full Nothing OS experience.
+ 
+* **Ecosystem:** You can use **NOOS Widgets** for the full Nothing OS experience.
 
 ---
 *Created by **-Jonexx**. Designed for the Android customization community.*
