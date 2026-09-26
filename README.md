@@ -8,24 +8,31 @@ Nothing OS inspired Lockscreen for **KLCK Kustom Lock Screen Maker**.
 
 ---
 
-## 📱 What's New in V1
+## 📱 What's New in V2.1
 
-* **Initial Release of N-Lock:** Complete lockscreen layout built for KLCK.
-* **5 Clockfaces:** Multiple clock styles with dynamic alignment options.
-* **Material You Support:** Accent color engine via KLCK palette picker.
-* **Adaptive theme: you can choose between nothing dark or nothing light theme**
+* **Introducing fully customizable lockscreen widgets**: Select between 7 predefined lockscreen widget packs featuring adaptive dark/light themes.
+
+* **Introducing shortcuts selection**: You can now select up to 6 shortcut icons for the left and right sides.
+
+* **Added on-screen color selection**: Customize your clock color directly from the lock screen without unlocking your phone (note: applying custom accent colors requires unlocking your device).
+
+* **Expanded clockface collection**: Added 4 new clockfaces inspired by the authentic Nothing OS system aesthetics.
+
+* **Added lockscreen notification list**: Integrated a dedicated notification list directly onto the lock screen (previously unavailable in v1.0).
+
+* **View full changelog in releases page**
 
 ---
 
 ## 🛠️ Requirements & Setup
 
 1. **KLCK Kustom Lock Screen Maker** (Pro Key required to load presets).
-2. Download `N-Lock_1.0.klck` (or install the APK release) from the [Releases](https://github.com/) section.
+2. Download `N-Lock_2.1.klck` (or install the APK release) from the [Releases](https://github.com/) section.
 3. Open KLCK, grant all required permissions:
    * **Notification Access**
    * **Draw Over Apps**
    * **Battery Optimization:** Set to *Unrestricted* to prevent background kills.
-4. Load **N-Lock 1.0** and hit Save!
+4. Load **N-Lock 2.1** and hit Save!
 
 ---
 
