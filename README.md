@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/Banner/nlockicon.png" alt="N-Lock 1.0 Banner" width="100%" />
+  <img src="assets/Banner/v2bann.png" alt="N-Lock 1.0 Banner" width="100%" />
 </p>
 
 <h1 align="center">N-LOCK 1.0</h1>
