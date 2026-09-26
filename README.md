@@ -2,7 +2,7 @@
   <img src="assets/Banner/nlockicon.png" alt="N-Lock 1.0 Banner" width="100%" />
 </p>
 
-<h1 align="center">N-LOCK 1.0</h1>
+<h1 align="center">N-LOCK 2.1</h1>
 
 Nothing OS inspired Lockscreen for **KLCK Kustom Lock Screen Maker**.
 
