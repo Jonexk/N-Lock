@@ -2,23 +2,25 @@
   <img src="assets/Banner/nlockicon.png" alt="N-Lock 1.0 Banner" width="100%" />
 </p>
 
-<h1 align="center">N-LOCK 2.1</h1>
+<h1 align="center">N-LOCK</h1>
 
 Nothing OS inspired Lockscreen for **KLCK Kustom Lock Screen Maker**.
 
 ---
 
-## 📱 What's New in V2.1
+## 📱 What's in N-Lock?
 
-* **Introducing fully customizable lockscreen widgets**: Select between 7 predefined lockscreen widget packs featuring adaptive dark/light themes.
+* **Fully customizable lockscreen widgets**: Select between 7 predefined lockscreen widget packs featuring adaptive dark/light themes.
 
-* **Introducing shortcuts selection**: You can now select up to 6 shortcut icons for the left and right sides.
+* **Shortcuts selection**: You can now select up to 6 shortcut icons for the left and right sides.
 
-* **Added on-screen color selection**: Customize your clock color directly from the lock screen without unlocking your phone (note: applying custom accent colors requires unlocking your device).
+* **On-screen color selection**: Customize your clock color directly from the lock screen without unlocking your phone (note: applying custom accent colors requires unlocking your device).
 
-* **Expanded clockface collection**: Added 4 new clockfaces inspired by the authentic Nothing OS system aesthetics.
+* **Expanded clockface collection**: Added 11 clockfaces inspired by the authentic Nothing OS system.
 
-* **Added lockscreen notification list**: Integrated a dedicated notification list directly onto the lock screen (previously unavailable in v1.0).
+* **lockscreen notification list**: Integrated a dedicated notification list directly onto the lock screen (previously unavailable in v1.0).
+
+* **Depth effect**: Added depht effect for the clockfaces
 
 * **View full changelog in releases page**
 
@@ -27,7 +29,7 @@ Nothing OS inspired Lockscreen for **KLCK Kustom Lock Screen Maker**.
 ## 🛠️ Requirements & Setup
 
 1. **KLCK Kustom Lock Screen Maker** (Pro Key required to load presets).
-2. Download `N-Lock_2.1.klck` (or install the APK release) from the [Releases](https://github.com/) section.
+2. Download `N-Lock_2.2.klck` (or install the APK release) from the [Releases](https://github.com/) section.
 3. Open KLCK, grant all required permissions:
    * **Notification Access**
    * **Draw Over Apps**
