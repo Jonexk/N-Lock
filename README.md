@@ -29,12 +29,12 @@ Nothing OS inspired Lockscreen for **KLCK Kustom Lock Screen Maker**.
 ## 🛠️ Requirements & Setup
 
 1. **KLCK Kustom Lock Screen Maker** (Pro Key required to load presets).
-2. Download `N-Lock_2.2.klck` (or install the APK release) from the [Releases](https://github.com/) section.
+2. Download `N-Lock.apk` (or install the APK release) from the [Releases](https://github.com/) section.
 3. Open KLCK, grant all required permissions:
    * **Notification Access**
    * **Draw Over Apps**
    * **Battery Optimization:** Set to *Unrestricted* to prevent background kills.
-4. Load **N-Lock 2.1** and hit Save!
+4. Load **N-Lock** and hit Save!
 
 ---
 
